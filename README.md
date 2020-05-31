@@ -12,7 +12,7 @@ Présentation :
 Une présentation du jeu est consultable au lien suivant : https://fr.wikipedia.org/wiki/Puissance_4 .
 
 Portabilité :
-Nécesitte un compilateur C
+Nécessite un compilateur C
 
 Interface graphique :
 Mode console
